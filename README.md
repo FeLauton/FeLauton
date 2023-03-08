@@ -1,6 +1,6 @@
 ## Olá! Eu sou o FeLauton
 <div>
-<a href="https://github.com/FeLauton">
+<a href="[https://github.com/FeLauton](https://github.com/FeLauton)">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felauton&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
 <div>
