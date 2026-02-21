@@ -4,7 +4,7 @@ Tech Lead | Backend & Cloud Architecture
 
 ---
 
-## 🇬🇧 About
+## About
 
 Tech Lead with strong hands-on involvement in backend and cloud-native systems.
 
